@@ -1,0 +1,4 @@
+language: objective-c
+xcode_projet: YandexTranslator-ios.xcodeproj
+xcode_scheme: YandexTranslator-iosTests
+xcode_destination: platform:iOS Simulator,OS=12.1,name=iPhone X
